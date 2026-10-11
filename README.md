@@ -1,2 +1,2 @@
-# My-fast-project
-This is my fast Github repository.
+# My-first-project
+This is my first Github repository.
